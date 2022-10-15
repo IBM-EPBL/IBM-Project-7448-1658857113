@@ -8,6 +8,7 @@ A Novel Method for Handwritten Digit Recognition System
 [Ideation-Phase](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Ideation-Phase)
 
 [Project Planning Phase-1](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-1)
+
 [Project Planning Phase-2](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-2)
 ## Batch
 
