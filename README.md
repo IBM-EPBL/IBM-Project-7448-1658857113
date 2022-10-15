@@ -13,11 +13,10 @@ A Novel Method for Handwritten Digit Recognition System
 ## Batch
 
 B5-5M1E
-
-- Arjun      [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Arjun)
-- Janeswaran      [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Janeswaran)
-- Hariharan       [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Harirharan)
-- Monish Lal     [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Monish%20Lal)
+- Janeswaran(Team Leader)      [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Janeswaran)
+- Arjun(Team Member 1)      [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Arjun)
+- Hariharan(Team Member 2)       [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Harirharan)
+- Monish Lal(Team Member 3)     [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Monish%20Lal)
 
 ## Skills Required: 
 
