@@ -18,9 +18,7 @@ B5-5M1E
 - Hariharan(Team Member 2)       [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Harirharan)
 - Monish Lal(Team Member 3)     [Assignments](https://github.com/IBM-EPBL/IBM-Project-7448-1658857113/tree/main/Assignments/Monish%20Lal)
 
-## Skills Required: 
 
-Python,CNN, IBM Cloud, IBM Watson Studio, IBM Cloudant DB, Deep Learning, Python-Flask
 
 ## Project Description:
 
