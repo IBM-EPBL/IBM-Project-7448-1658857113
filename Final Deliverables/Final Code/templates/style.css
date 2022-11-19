@@ -1,0 +1,45 @@
+body{
+  background-image: url('https://img.freepik.com/premium-vector/falling-colorful-messy-numbers-math-study-concept-with-flying-digits-fascinating-back-school-mathematics-banner-white-background-falling-numbers-vector-illustration_174187-2929.jpg?w=2000');
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%
+ }
+
+.pred{
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 40px;
+     margin: 0 auto;
+     padding: 3% 5%;
+     padding-top: 15%;
+     color: rgb(0, 10, 80);
+ }
+
+ .loader {
+  margin: 100px auto 0px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 0.5s linear infinite; /* Safari */
+  animation: spin 0.5s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.pred-remove {
+  display: none;
+}
+
+.hide-loader {
+  display: none;
+}

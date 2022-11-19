@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="rstyle.css">
+    </head>
+    <body>
+        <div class="bg-image">
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <h1 style = "color: rgb(2, 60, 0)">A Novel Method for Handwritten Digit Recognition</h1>
+        <h2>TEAM ID: PNT2022TMID01309</h2>
+        
+        <br>
+
+        <div class="details">
+            <p style="font-size:30px;font-weight: bolder;"> A Novel Method for Handwritten Digit Recognition</p>
+        <p style="font-size: 20px;">Handwriting recognition is one of the compelling research works going on because every 
+            individual in this world has their own style of writing.<br><br>MNIST data set is widely used for this recognition process and it has 70000 
+             handwritten digits. We use Artificial neural networks to train these images and build a deep learning model. Web application is created where the user 
+             can upload an image of a handwritten digit. this image is analyzed by the model and the detected result is returned on to UI</p>
+        </div>
+        <br>
+        <form action="recognize.html" method="get">
+            <input type="file" id="image" name="image" accept="image/png, image/jpeg" onchange="preview()">
+            <img id="frame" src="" width="100px" height="100px"/>
+            <button type="submit" class="button button2" id="predict_button" onclick="predict.html">Recognise</button>
+        </form>
+        
+        
+        <script src="index.js" async defer></script>
+    </div>
+    <footer>CREDITS: JANESWARAN T, HARIHARAN M S, MONISH LAL O, ARJUN M</footer>
+    </body>
+</html>
